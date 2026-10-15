@@ -1,0 +1,40 @@
+{
+  "name": "BasicNeeds",
+  "nickName": {
+    "cn": "基本需求",
+    "en": "Basic Needs"
+  },
+  "version": "0.2.5",
+  "styleFileList": [
+    "style/ui.css"
+  ],
+  "scriptFileList": [],
+  "scriptFileList_earlyload": [],
+  "scriptFileList_inject_early": [],
+  "scriptFileList_preload": [],
+  "tweeFileList": [],
+  "imgFileList": [],
+  "replacePatchList": [],
+  "additionFile": [],
+  "additionBinaryFile": [],
+  "addonPlugin": [
+    {
+      "modName": "maplebirch",
+      "addonName": "maplebirchAddon",
+      "modVersion": ">=5.2.0",
+      "params": {
+        "script": ["scripts/main.js"]
+      }
+    }
+  ],
+  "dependenceInfo": [
+    {
+      "modName": "ModLoader",
+      "version": ">=2.0.0"
+    },
+    {
+      "modName": "maplebirch",
+      "version": ">=5.2.0"
+    }
+  ]
+}
