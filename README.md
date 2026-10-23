@@ -31,3 +31,5 @@
 - [秋枫白桦框架](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework)
 
 - [百度贴吧](https://tieba.baidu.com/p/11106255182?fr=personpage)
+
+- [QQ群](1129339869)
